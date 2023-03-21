@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "8 * (2 + 2)",
+      "options": [
+        {
+          "id": 1,
+          "label": "A",
+          "text": "32",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "label": "B",
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "label": "C",
+          "text": "8",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "label": "D",
+          "text": "24",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "sqrt(9) * 9",
+      "options": [
+        {
+          "id": 1,
+          "label": "A",
+          "text": "81",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "label": "B",
+          "text": "88",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "label": "C",
+          "text": "27",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "label": "D",
+          "text": "144",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "2 ÷ 2 * 2 - 2",
+      "options": [
+        {
+          "id": 1,
+          "label": "A",
+          "text": "0",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "label": "B",
+          "text": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "label": "C",
+          "text": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "label": "D",
+          "text": "3",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
